@@ -4440,7 +4440,7 @@ textarea.form-control-lg {
 }
 
 .navbar-light .navbar-brand {
-  color: rgba(151, 151, 151, 66%);
+  color: rgba(255, 251, 248, 66%);
 }
 .navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
   color: rgba(0, 0, 0, 0.9);
@@ -11297,7 +11297,7 @@ html {
 }
 
 .bg-gradient-primary-to-secondary {
-  background: linear-gradient(90deg, #cdbeb2, #ffffff) !important;
+  background: linear-gradient(90deg, #cdb6a6, #ffffff) !important;
 }
 
 .font-alt {
@@ -11324,7 +11324,7 @@ section {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #fff4e9;
+  background-color: #c9bfb1;
 }
 #mainNav .navbar-brand {
   font-family: 'Kanit', sans-serif;
@@ -11540,7 +11540,7 @@ footer a:hover, footer a:active, footer a:focus {
 }
 
 .masthead {
-  background-color: #f1ede6;
+  background-color: #d5beada1;
   padding-top: 9.5rem;
   padding-bottom: 5rem;
 }
